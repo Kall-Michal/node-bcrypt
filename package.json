@@ -1,0 +1,14 @@
+{
+  "name": "bcrypt-lecture",
+  "version": "1.0.0",
+  "description": "A short intro to bcrypt",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Malcolm R. Kente",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.6"
+  }
+}
